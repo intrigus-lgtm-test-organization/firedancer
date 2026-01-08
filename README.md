@@ -2,7 +2,7 @@
 
 Firedancer is a new validator client for Solana.
 
-* **Fast** Designed from the ground up to be *fast*. The concurrency
+* **Faaaaast** Designed from the ground up to be *fast*. The concurrency
 model draws from experience in the low latency trading space, and the code
 contains many novel high-performance reimplementations of core Solana
 primitives.
